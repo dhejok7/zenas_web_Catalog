@@ -1,8 +1,7 @@
 import streamlit
 import snowflake.connector
 import pandas
-snowflake-connector-python
-cffi==1.15.0
+
 
 streamlit.title('Zena\'s Amazing Athleisure Catalog')
 # connect to snowflake
